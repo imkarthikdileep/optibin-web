@@ -1,8 +1,9 @@
-# Frontend: OptiBin AI Dashboard
+<img width="1024" height="559" alt="web-logo" src="https://github.com/user-attachments/assets/47f3198d-805a-463a-8ff4-fa9cdd475e5b" />
+
+# OptiBin AI Web
 
 This is the user-facing interface for the OptiBin AI project, built with React, TypeScript, and Vite. It provides an interactive map to visualize the bin network and the dynamically calculated collection routes.
 
-![OptiBin AI Final UI](https://i.imgur.com/k2E8s5k.png)
 
 ## Core Technologies
 
